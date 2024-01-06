@@ -1,3 +1,6 @@
+[![CI](https://github.com/VaidasSkLocalDev/essential-feed-case-study/actions/workflows/CI.yml/badge.svg)](https://github.com/VaidasSkLocalDev/essential-feed-case-study/actions/workflows/CI.yml)
+
+
 # Essential Feed App – Image Feed Feature
 
 ## BDD Specs
@@ -71,10 +74,10 @@ Then the app should display an error message
 4. System creates feed items from cached data.
 5. System delivers feed items.
 
-#### Expired cache course (sad path): 
+#### Expired cache course (sad path):
 1. System delivers no feed items.
 
-#### Empty cache course (sad path): 
+#### Empty cache course (sad path):
 1. System delivers no feed items.
 
 
